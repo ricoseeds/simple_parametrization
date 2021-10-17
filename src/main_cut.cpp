@@ -16,8 +16,7 @@
 
 #include <CGAL/Surface_mesh_parameterization/ARAP_parameterizer_3.h>
 
-#include <CGAL/IO/OFF_reader.h>
-
+#include <CGAL/IO/OFF.h>
 #include <CGAL/Surface_mesh_parameterization/internal/Containers_filler.h>
 #include <CGAL/Polygon_mesh_processing/connected_components.h>
 

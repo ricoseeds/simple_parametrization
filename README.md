@@ -24,6 +24,7 @@ mkdir include
 cd include
 ln -s /your/path/to/libigl/include/igl igl
 ln -s /your/path/to/libigl/external/glad/include/glad glad
+ln -s /your/path/to/libigl/external/glad/include/KHR KHR
 ```
 
 ## Compile
